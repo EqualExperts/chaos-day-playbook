@@ -18,7 +18,7 @@ Further content will be released later that goes into more depth on [how to run 
 We’ve created this playbook for teams and organisations to design, plan, execute and review a Chaos Day.  It’s not just for engineers; it is for everyone involved in delivering software. Product owners can learn more about the risks and impacts of failure, testers can learn how to explore edge cases and test for resilience and designers can benefit from a greater understanding of the user experience of failure and how to design interfaces that are adaptable.    
 
 
-This playbook is for any organisation, regardless of their tech stack or maturity.  You don’t have to use containers, Kubernetes, or be in AWS, GCP, Azure or any other cloud platform to gain the benefits of probing your system’s robustness.  
+This playbook is for any organisation, regardless of their tech stack or maturity.  You don’t have to use containers, Kubernetes, or be in AWS, GCP, Azure or any other cloud platform to gain the benefits of probing your system’s response to failure.  
 
 ## Related playbooks
 
