@@ -2,7 +2,7 @@
 
 ## Why Chaos
 
-Chaos Days are a practice within the field of Chaos engineering. The [Principles of Chaos site](https://principlesofchaos.org/) defines them as:
+Chaos Days are a practice within the field of Chaos engineering, which is [defined](https://principlesofchaos.org/) as:
 
 > ### _**The discipline of experimenting on a system in order to build confidence in the system's capability to withstand turbulent conditions in production.**_
 
@@ -18,7 +18,7 @@ An IT system includes the people who develop and operate it and the knowledge, e
 
 > ### [_People are the adaptable element of complex systems._](https://vimeo.com/showcase/6542214/video/370008157)\_\_
 
-The analysis of a team’s response to incidents provides many learning opportunities on how to improve the system’s resilience. The [Oxford Dictionary defines resilience](http://english.oxforddictionaries.com/resilience) as:
+The analysis of a team’s response to incidents provides many lessons that can lead to improved system resilience. The [Oxford Dictionary defines resilience](http://english.oxforddictionaries.com/resilience) as:
 
 1. the capacity to recover quickly from difficulties
 2. the ability of a substance or object to spring back into shape; elasticity.
