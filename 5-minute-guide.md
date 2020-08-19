@@ -2,7 +2,7 @@
 
 ## 5-minute guide to running a Chaos Day
 
-This section is a bare-bones version of the what and how of running a Chaos Day.  The rest of the playbook expands each step and adds the why plus examples of application.
+This section is a bare-bones version of the what and how of running a Chaos Day.  The rest of the playbook expands each step, covering the key outcomes, common problems and examples of application.
 
 If you already know [what Chaos Days](what-and-why.md#what-benefits-do-chaos-days-provide) are, [why they are beneficial](what-and-why.md#why-chaos) and that you’re [ready to run one](ready-for-chaos.md), read on.  If you’d first like to get a firmer understanding, skip over this section and read [What and why](what-and-why.md). 
 
