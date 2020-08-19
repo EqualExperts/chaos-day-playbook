@@ -11,7 +11,7 @@ The steps for running a Chaos Day are
 1. Plan who, what, when, where.
 2. Execute the experiments.
 3. Review execution, impact, response and chaos mechanics.
-4. Share learnings.
+4. Share knowledge gained.
 
 ![](https://lh6.googleusercontent.com/niygH5itfxmuGxV_Kckfm4It0AFc6x4p3X38IUrYOXF2Kv6rrFNcBpXmcN5MCrzbNKtwVkod2yUcdtIaQZfAiLPljlCUAY6dJ5vIJNwG1Xyp-Qwap5ChCYO9qtepieFXePhZSHjxiug)
 
