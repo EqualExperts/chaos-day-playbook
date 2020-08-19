@@ -25,5 +25,5 @@ This playbook is for any organisation, regardless of their tech stack or maturit
 We’ve written [other playbooks](https://www.playbook.ee/) that compliment this one well:
 
 * Chaos Days are great opportunities to run experiments that explore security threats.  For a distillation of our thinking on how best to apply security within continuous delivery, look at our [Secure Delivery Playbook](https://secure-delivery.playbook.ee/).
-* Chaos Days can be run with colocated and distributed teams alike.  If some of your team is remote, our [Remote Working Playbook](https://remote-working.playbook.ee/) might be of interest.
+* Chaos Days can be run with colocated and distributed teams alike.  If some or all of your team are remote, our [Remote Working Playbook](https://remote-working.playbook.ee/) might be of interest.
 
