@@ -28,7 +28,7 @@ Some learning may be technical, such as implementing retry mechanisms and circui
 A key but often underestimated benefit is the sharing of internal knowledge that individual team members rely on when working through an incident.  By spreading this knowledge across the team, resilience is improved just through people’s greater cognisance of system behaviour and failure scenarios when tackling production incidents or developing system enhancements.  
 
 
-Chaos Days improve system robustness by developing its:
+Chaos Days improve system resilience by developing its:
 
 * People, through giving them new: 
   * knowledge about system behaviour
