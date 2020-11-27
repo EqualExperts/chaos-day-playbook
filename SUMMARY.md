@@ -7,7 +7,7 @@
 * [Ready for chaos?](ready-for-chaos.md)
 * [How](how/README.md)
   * [Timeline](how/timeline.md)
-  * [Planning a Chaos Day](how/planning-a-chaos-day.md)
+  * [Who to involve in a Chaos Day](how/planning-a-chaos-day.md)
   * [What experiments to run on a Chaos Day](how/what-experiments-to-run-on-a-chaos-day.md)
   * [When to run a Chaos Day](how/when-to-run-a-chaos-day.md)
   * [Where to run a Chaos Day](how/where-to-run-a-chaos-day.md)

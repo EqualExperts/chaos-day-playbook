@@ -1,6 +1,4 @@
-# Planning a Chaos Day
-
-## **Who to involve in a Chaos Day**
+# Who to involve in a Chaos Day
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
