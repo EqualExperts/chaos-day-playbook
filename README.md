@@ -8,8 +8,9 @@ We are producing this playbook in stages. This stage provides a [5-minute guide]
 
 1. [What a Chaos Day is and why they are beneficial](what-and-why.md)
 2. [When is the right time to run one](ready-for-chaos.md)
+3. [How to get started planning a Chaos Day](how/)
 
-Further content will be released later that goes into more depth on [how to run a Chaos Day](how/)**.**
+Further content will be released later that expands experiment design, execution and sharing knowledge.
 
 ![](.gitbook/assets/image.png)
 

@@ -19,17 +19,18 @@ The steps for running a Chaos Day are
 
 1. Start small: involve one or two teams, not the entire engineering group.
 2. Identify a few of the most experienced engineers across those teams.  They will be the _agents of chaos_, who will design and execute the experiments.
-3. At least two weeks ahead of Chaos Day, facilitate a planning session with the agents of chaos.  Draw the system architecture on a whiteboard \(or [remote equivalent](https://remote-working.playbook.ee/remote-working-runbooks/remote-workshops)\), then use post-its and/or a Trello board to brainstorm possible experiments that simulate a failure that your system should tolerate.  Don’t focus on failures that you have no control over, such as an outage within your cloud provider, as they have low learning value. For each experiment, consider:  
+3. At least two weeks ahead of Chaos Day, facilitate a planning session with the whole team.  Draw the system architecture on a whiteboard \(or [remote equivalent](https://remote-working.playbook.ee/remote-working-runbooks/remote-workshops)\), then use post-its and/or a Trello board to brainstorm possible experiments that simulate a failure that your system should tolerate. As Norah Jones describes in [Chaos Engineering Trap 2](https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059), having everyone involved at this stage is important, to maximises the learning across the team.  Don’t focus on failures that you have no control over, such as an outage within your cloud provider, as they have low learning value.
+4. With the brainstorming complete, to provide most surprise on the Chaos Day itself, reduce the group to just the _agents of chaos_. They can then consider, for each experiment:  
    1. Failure mode \(e.g., partial connectivity loss, an instance being terminated, network slowdown\).  
    2. Expected impact in both technical and business terms \(e.g., dependant services fail, or in-progress customer transactions are halted\).  
    3. Anticipated response \(e.g., the service auto-heals, an alert is fired, or nobody notices\).  
    4. If the failure remains unresolved, how would the injected fault be rolled back?
    5. Should the experiment be run in isolation \(e.g., would a degradation in monitoring limit learning from other experiments?\)  
    6. Which environment will it be run on?  Our experience suggests that using the same pre-production environment for all experiments makes execution easier, providing valuable learning, without production's costs and risks.  
-4. Shortlist 4–8 experiments based on business risk and learning opportunity \(e.g., what failure mode would have the greatest risk to the business and a system response that you’re uncertain about?\).  
-5. Prepare the experiments \(hence, the two-week gap between planning and the main event\), keeping them secret from the participating teams to maximise the realism of unexpected failures.  
-6. Determine a date for Chaos Day, checking that it won’t impact key business events \(e.g., if the target environment is severely degraded, checking this won’t delay any production releases that need to pass through it around that date\).
-7. Schedule post-chaos review meetings for participating teams \(as close to after Chaos Day as possible\).
+5. Shortlist 4–8 experiments based on business risk and learning opportunity \(e.g., what failure mode would have the greatest risk to the business and a system response that you’re uncertain about?\).  
+6. Prepare the experiments \(hence, the two-week gap between planning and the main event\), keeping them secret from the participating teams to maximise the realism of unexpected failures.  
+7. Determine a date for Chaos Day, checking that it won’t impact key business events \(e.g., if the target environment is severely degraded, checking this won’t delay any production releases that need to pass through it around that date\).
+8. Schedule post-chaos review meetings for participating teams \(as close to after Chaos Day as possible\).
 
 ### Experiment execution
 
