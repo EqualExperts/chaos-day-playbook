@@ -16,6 +16,7 @@
   * [Where to run a Chaos Day](how/where-to-run-a-chaos-day.md)
   * [How a Chaos Day unfolds](how/how-a-chaos-day-unfolds.md)
   * [Learning from a Chaos Day](how/learning-from-a-chaos-day.md)
+* [What next?](what-next.md)
 * [Licence](licence.md)
 * [Contributing](contributing/README.md)
   * [Contributors](contributing/contributors.md)
