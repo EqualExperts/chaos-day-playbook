@@ -2,16 +2,13 @@
 
 ## **Overview**
 
-The Equal Experts Chaos Day Playbook is a distillation of our thinking on how best to run a Chaos Day.  It draws from our experience of running many Chaos Days across a diverse set of clients, ranging from [large public-sector departments](https://www.equalexperts.com/blog/our-thinking/chaos-day/) to [private-sector retail organisations](https://www.equalexperts.com/blog/our-thinking/equal-experts-engineer-chaos-at-john-lewis-partners/).  We have open-sourced this under a [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/) and encourage contributions to iteratively improve our content. &#x20;
+The Equal Experts Chaos Day Playbook is a distillation of our thinking on how best to run a Chaos Day.  It draws from our experience of running many Chaos Days across a diverse set of clients, ranging from [large public-sector departments](https://www.equalexperts.com/blog/our-thinking/chaos-day/) to [private-sector retail organisations](https://www.equalexperts.com/blog/our-thinking/equal-experts-engineer-chaos-at-john-lewis-partners/). &#x20;
 
-We are producing this playbook in stages. This stage provides a [5-minute guide](5-minute-guide.md) to running a Chaos Day, for those keen to get started straight away, plus more in depth content on:
+For readers pressed for time, you can jump to the [5-minute guide](5-minute-guide.md) to running a Chaos Day, and the case study on condensing the entire process into a 2.5 hour mini chaos event.
 
-1. [What a Chaos Day is and why they are beneficial](what-and-why.md)
-2. [When is the right time to run one](ready-for-chaos.md)
-3. [How to get started planning a Chaos Day](how/)
-4. [How to run a Chaos Day](how/)
+For those that want more depth, read on.
 
-Further content will be released later that expands experiment design, execution and sharing knowledge.
+We have open-sourced this under a [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/) and encourage contributions to iteratively improve our content. &#x20;
 
 ![](.gitbook/assets/image.png)
 
