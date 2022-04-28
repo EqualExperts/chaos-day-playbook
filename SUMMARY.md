@@ -10,7 +10,6 @@
   * [Timeline](how/timeline.md)
   * [Who to involve in a Chaos Day](how/who-to-involve-in-a-chaos-day.md)
   * [What experiments to run on a Chaos Day](how/what-experiments-to-run-on-a-chaos-day/README.md)
-    * [Context](how/what-experiments-to-run-on-a-chaos-day/context.md)
     * [Experiment brainstorm](how/what-experiments-to-run-on-a-chaos-day/experiment-brainstorm.md)
     * [Experiment design and preparation](how/what-experiments-to-run-on-a-chaos-day/experiment-design-and-preparation.md)
   * [When to run a Chaos Day](how/when-to-run-a-chaos-day.md)
