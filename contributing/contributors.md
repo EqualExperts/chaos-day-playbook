@@ -6,6 +6,6 @@ This playbook was produced by a number of people within the [Equal Experts netwo
 * [Stuart Gunter](https://www.linkedin.com/in/stuartgunter/)
 * [Adam Hansrod](https://www.linkedin.com/in/adam-hansrod-22940876/)
 * [Dave Hewett](https://www.linkedin.com/in/dave-hewett-b97609/)
-* [Lyndsay Prewer](https://www.linkedin.com/in/lyndsp) \(project lead\)
+* [Lyndsay Prewer](https://www.linkedin.com/in/lyndsp) (project lead)
 * [Steve Smith](https://www.linkedin.com/in/stevesmithcd/)
-
+* [Kulvinder Singh](https://www.linkedin.com/in/kulvinder-singh-86358a/)
