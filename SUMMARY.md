@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Creating Chaos](README.md)
-* [5-minute guide](5-minute-guide.md)
 * [What & Why](what-and-why.md)
+* [5-minute guide](5-minute-guide.md)
 * [Complementary approaches](complementary-approaches/README.md)
   * [Running a mini chaos event](complementary-approaches/running-a-mini-chaos-event.md)
 * [Ready for chaos?](ready-for-chaos.md)
