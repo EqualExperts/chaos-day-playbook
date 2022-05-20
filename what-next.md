@@ -7,4 +7,4 @@ We hope this playbook has been useful to you and inspired you to take the next s
 * Run a Chaos Day for a single team.
 * Run a Chaos Day for multiple teams.
 
-Equal Experts are always happy to have a _no-strings-attached_ conversation about how you might get started in this exciting and beneficial area, so please [get in touch](https://www.equalexperts.com/contact-us/)!
+At Equal Experts we are always happy to have a _no-strings-attached_ conversation about how you can get started in this exciting and beneficial area, so please [get in touch](https://www.equalexperts.com/contact-us/)!
