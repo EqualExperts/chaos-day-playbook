@@ -1,7 +1,5 @@
 # Who to involve in a Chaos Day
 
-![](<../.gitbook/assets/image (3).png>)
-
 Once you have decided which service(s) to experiment on, you should identify three groups of people:
 
 1. _Stakeholders_ are anyone connected with the service who would benefit from the insights created by a Chaos Day. It’s not just the team’s engineers who can gain new insights: designers, product owners and delivery managers all contribute to a system’s design, implementation and operation and therefore also have a stake in its resilience. For example, a designer and a product owner both need to be aware of how failures ripple through a system and ultimately impact end-users.

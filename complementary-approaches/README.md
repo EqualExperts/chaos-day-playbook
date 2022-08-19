@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/4b.png
+coverY: 13.833984375
+---
+
 # Complementary approaches
 
 Chaos Days are one of many tools for improving system resilience.  Others include:

@@ -1,6 +1,9 @@
-# 5-minute guide
+---
+cover: .gitbook/assets/3b.png
+coverY: 69.169921875
+---
 
-## 5-minute guide to running a Chaos Day
+# 5-minute guide
 
 This section is a bare-bones version of the what and how of running a Chaos Day.  The rest of the playbook expands each step, covering the key outcomes, common problems and examples of application.
 
@@ -13,7 +16,7 @@ The steps for running a Chaos Day are
 3. Review execution, impact, response and chaos mechanics.
 4. Share knowledge gained.
 
-![](https://lh6.googleusercontent.com/niygH5itfxmuGxV\_Kckfm4It0AFc6x4p3X38IUrYOXF2Kv6rrFNcBpXmcN5MCrzbNKtwVkod2yUcdtIaQZfAiLPljlCUAY6dJ5vIJNwG1Xyp-Qwap5ChCYO9qtepieFXePhZSHjxiug)
+![steps for running a chaos day](<.gitbook/assets/5min guide@4x.png>)
 
 ### Chaos planning
 

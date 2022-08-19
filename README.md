@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/cover.png
+coverY: 59.947265625
+---
+
 # Creating Chaos
 
 ## **Overview**
@@ -10,14 +15,18 @@ For those that want more depth, read on.
 
 We have open-sourced this under a [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/) and encourage contributions to iteratively improve our content. &#x20;
 
-![](.gitbook/assets/image.png)
-
 ## Who’s this playbook for?
 
 We’ve created this playbook to help teams and organisations design, plan, execute and review a Chaos Day.  It’s not just for engineers; it is for everyone involved in delivering software. Product owners can learn more about the risks and impacts of failure, testers can learn how to explore edge cases and test for resilience and designers can benefit from a greater understanding of the user experience of failure and how to design interfaces that are adaptable.  \
 
 
 This playbook is for any organisation, regardless of their tech stack or maturity.  You don’t have to use containers, Kubernetes, or be in AWS, GCP, Azure or any other cloud platform to gain the benefits of probing your system’s response to failure. &#x20;
+
+![a day of chaos is for everyone](.gitbook/assets/title@4x.png)
+
+## Download a [pdf](https://www.equalexperts.com/wp-content/uploads/2022/08/chaosday\_playbook\_v1.0.pdf) version of the Chaos Day playbook
+
+
 
 ## Related playbooks
 
