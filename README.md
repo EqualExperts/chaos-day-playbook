@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/cover.png
-coverY: 59.947265625
+coverY: 23.056640625
 ---
 
 # Creating Chaos
