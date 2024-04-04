@@ -26,13 +26,3 @@ This playbook is for any organisation, regardless of their tech stack or maturit
 
 ## Download a [pdf](https://www.equalexperts.com/wp-content/uploads/2022/08/chaosday\_playbook\_v1.0.pdf) version of the Chaos Day playbook
 
-
-
-## Related playbooks
-
-We’ve written [other playbooks](https://www.playbook.ee/) that complement this one well:
-
-* Chaos Days are great opportunities to run experiments that explore security threats.  For a distillation of our thinking on how best to apply security within continuous delivery, look at our [Secure Delivery Playbook](https://secure-delivery.playbook.ee/).
-* Chaos Days can be run with co-located and distributed teams alike.  If some or all of your team is remote, our [Remote Working Playbook](https://remote-working.playbook.ee/) might be of interest.
-* Any size of service benefits from Chaos Engineering. This playbook describes an approach that can be scaled up from a single service to an entire platform. We’ve further advice on why, when, and how to build a Digital Platform in our [Digital Platform Playbook](https://digital-platform.playbook.ee/).
-* For teams practising the _You Build It You Run It_ (YBIYRI) operating model to build, deploy, operate, and support their own digital services, Chaos Days is a perfect tool to better understand how their services respond to failure. You can learn more about the YBIYRI model in our [You Build It, You Run It playbook](https://you-build-it-you-run-it.playbook.ee/), by Steve Smith and Bethan Timmins.
