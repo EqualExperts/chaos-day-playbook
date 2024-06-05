@@ -1,6 +1,6 @@
 # Timeline
 
-Whether you’re experimenting on a single service or at scale on an entire [digital platform](https://digital-platform.playbook.ee/), planning your Chaos Day carefully is essential to make the most of your investment of time and energy.
+Whether you’re experimenting on a single service or at scale on an entire [digital platform](https://app.gitbook.com/o/-LotYsHXVKys1Z4wI\_dX/s/-MJRM-IVRZ9C6iJCPG9o/), planning your Chaos Day carefully is essential to make the most of your investment of time and energy.
 
 Whilst the process is the same regardless of scale, the organisational complexity, commitment and elapsed time increase with the number of services and teams involved. Because of this, our advice is to start small, so you can learn and adapt the process to your particular situation. Start with one service or team , not an entire engineering platform, then grow incrementally with each subsequent Chaos Day.
 

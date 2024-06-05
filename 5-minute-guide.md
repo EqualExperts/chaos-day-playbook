@@ -22,7 +22,7 @@ The steps for running a Chaos Day are
 
 1. Start small: involve one or two teams, not the entire engineering group.
 2. Identify a few of the most experienced engineers across those teams.  These people will be the _agents of chaos_, and will design and execute the experiments.
-3. At least two weeks before  Chaos Day, arrange a planning session with the whole team.  As Norah Jones describes in [Chaos Engineering Trap 2](https://medium.com/@njones\_18523/chaos-engineering-traps-e3486c526059), it is important to have everyone involved at this stage to maximise the learning across the team.  Draw the system architecture on a whiteboard (or [remote equivalent](https://remote-working.playbook.ee/remote-working-runbooks/remote-workshops)), then use sticky notes and/or a Trello board to brainstorm possible experiments that simulate a failure that your system should tolerate. Don’t focus on failures that you have no control over, such as an outage within your cloud provider, as they have low learning value.&#x20;
+3. At least two weeks before  Chaos Day, arrange a planning session with the whole team.  As Norah Jones describes in [Chaos Engineering Trap 2](https://medium.com/@njones\_18523/chaos-engineering-traps-e3486c526059), it is important to have everyone involved at this stage to maximise the learning across the team.  Draw the system architecture on a whiteboard (or [remote equivalent](https://app.gitbook.com/s/-LteCwbX785jMrQqW4Uf/remote-working-runbooks)), then use sticky notes and/or a Trello board to brainstorm possible experiments that simulate a failure that your system should tolerate. Don’t focus on failures that you have no control over, such as an outage within your cloud provider, as they have low learning value.&#x20;
 4. With the brainstorming complete, to provide most surprise on the Chaos Day itself, reduce the group to just the _agents of chaos_. They can then consider, for each experiment: &#x20;
    1. Failure mode (e.g., partial connectivity loss, an instance being terminated, network slowdown). &#x20;
    2. Expected impact in both technical and business terms (e.g., dependent services fail, or in-progress customer transactions are halted). &#x20;
@@ -39,7 +39,7 @@ The steps for running a Chaos Day are
 
 1. Let participating teams know when Chaos Day is, and that they should treat failures in the target environment as if “production were on fire”.
 2. Ensure that participating teams know which communication channel(s) to use (e.g., a public #pre-prod-incidents Slack channel), to aid documenting response timelines.
-3. Provide a physical or [remote space](https://remote-working.playbook.ee/remote-working-runbooks/remote-workshops) and plenty of snacks for the agents of chaos. A facilitator can help the team keep pace through the experiments (we’ve found using the Trello board from planning to be helpful here, with additional columns for experiments: In Progress, Resolved by Agents, Resolved by Owning Team).
+3. Provide a physical or remote space and plenty of snacks for the agents of chaos. A facilitator can help the team keep pace through the experiments (we’ve found using the Trello board from planning to be helpful here, with additional columns for experiments: In Progress, Resolved by Agents, Resolved by Owning Team).
 4. Monitor each experiment closely, analysing and documenting impact and team response.  A private Slack channel is useful (e.g., #agents-of-chaos), as is the Trello board.
 5. Ensure experiments are concluded and normal service restored before the end of the day.
 
